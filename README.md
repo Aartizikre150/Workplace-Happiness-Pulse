@@ -5,8 +5,8 @@
 </p>
 
 📝 **[Survey Form Link](https://forms.office.com/r/Q5y2hTL5Ke?origin=lprLink)**  
-📂 [Download Tableau Workbook (.twbx)](Lab 2.twbx)  
-📄 [Download Project Report (PDF)](./WORK PLACE HAPPINESS PULSE.pdf)  
+📂 [Download Tableau Workbook (.twbx)](./Full%20project/Lab%202.twbx)  
+📄 [Download Project Report (PDF)](./Full%20project/WORK%20PLACE%20HAPPINESS%20PULSE.pdf)  
 
 ---
 
